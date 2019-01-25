@@ -1,2 +1,2 @@
 # Retail-Data-Analysis
-Using Spark to solve the KPIs of  a small Retail Dataset
+The objective of the project is to analyze and solve various KPIs of Retail-Dataset using Apache Spark   
