@@ -15,3 +15,8 @@ Any flavor of linux with following installed:
 **KPI 1** 
   - Find product wise sales distribution.
   
+**KPI 2**
+  - Find store wise sales.
+  
+**KPI 3**
+  - Find total sales done.
