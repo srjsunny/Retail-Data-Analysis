@@ -14,9 +14,13 @@ Any flavor of linux with following installed:
 ## KPIs
 **KPI 1** 
   - Find product wise sales distribution.
+  *Output:*
+  ![](output%20Images/output1.PNG)
   
 **KPI 2**
   - Find store wise sales.
-  
+  *Output*
+  ![](output%20Images/output2.PNG)
 **KPI 3**
   - Find total sales done.
+  ![](output%20Images/output3.PNG)
